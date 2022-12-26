@@ -7,7 +7,6 @@ The function is triggered by an **Amazon CloudWatch Event** that is set to respo
 
 **This function can be useful for ensuring that flow logs are always enabled for new VPCs, which can help with network monitoring and security analysis.**
 
-## Screenshots
 
 ![App Screenshot](https://github.com/SofiaNeogalaxy/AWS-Lambda-VPC-Flow-Logs/blob/main/awsdiagramlambda.png?raw=true)
 
